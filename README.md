@@ -3,9 +3,9 @@
 
 The Travel Agency System is a modular, backend-only application built with Spring Boot. It is designed to facilitate seamless hotel and event bookings through RESTful APIs. The system includes user management, hotel booking features, and a personalized dashboard, enabling users to manage their bookings and profiles efficiently.
 
+![Uploading image.png…]()
 
-![System Overview](assets/images/system_overview.png)
-
+ 
 ✨ Features
 🔐 User Management
 User registration, login, and password reset.
